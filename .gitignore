@@ -1,0 +1,22 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+backend/.env
+
+# FAISS Index
+vectorstore/
+
+# Uploaded Files
+uploads/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
